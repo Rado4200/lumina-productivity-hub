@@ -81,25 +81,25 @@ This isn't just a productivity tool—it's a **digital sanctuary for organized t
 <div align="center">
 
 ### 🖥️ Dashboard View
-![Dashboard](./screenshots/lumina-dashboard.png)
+![Dashboard](./screenshots/dark_dashboard.png)
 *Clean dashboard with real-time statistics and quick note capture*
 
 ### ✅ Tasks Management
-![Tasks](./screenshots/lumina-tasks.png)
+![Tasks](./screenshots/dark_tasks.png)
 *Organize your tasks with categories and track progress*
 
 ### 📝 Notes System
-![Notes](./screenshots/lumina-notes.png)
+![Notes](./screenshots/dark_notes.png)
 *Beautiful grid layout for all your thoughts and ideas*
 
 ### 🌙 Dark & Light Themes
-![Dark Theme](./screenshots/lumina-dark.png)
-![Light Theme](./screenshots/lumina-light.png)
+![Dark Theme](./screenshots/dark_sidebar.png)
+![Light Theme](./screenshots/bright_sidebar.png)
 *Seamless theme switching with optimized color palettes*
 
-### 🌍 Multi-Language Support
-![Languages](./screenshots/lumina-languages.png)
-*4 languages with complete UI translation*
+### 🌍 Other Screenshots
+![Screenshots](./screenshots)
+*+4 languages with complete UI translation*
 
 </div>
 
