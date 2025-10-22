@@ -93,8 +93,8 @@ This isn't just a productivity tool—it's a **digital sanctuary for organized t
 *Beautiful grid layout for all your thoughts and ideas*
 
 ### 🌙 Dark & Light Themes
-![Dark Theme](./screenshots/dark_sidebar.png)
-![Light Theme](./screenshots/bright_sidebar.png)
+![Dark Theme](./screenshots/dark_sidebar.PNG)
+![Light Theme](./screenshots/bright_sidebar.PNG)
 *Seamless theme switching with optimized color palettes*
 
 ### 🌍 Other Screenshots
